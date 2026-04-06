@@ -8,7 +8,7 @@ const GALLERY_ITEMS = [
     type: 'image',
     src: '/assets/Repaint/rel-pict.jpg',
     label: 'Full Body Repaint',
-    sub: 'Hasil pengecatan profesional',
+    sub: 'Silver Metalic',
     category: 'repaint',
   },
   {
@@ -21,8 +21,8 @@ const GALLERY_ITEMS = [
   {
     type: 'image',
     src: '/assets/Repaint/blue-purple-red.jpg',
-    label: 'Color Blending',
-    sub: 'Multi-tone Paint Design',
+    label: 'Full Body Repaint',
+    sub: 'Blue Purple',
     category: 'repaint',
   },
   {
@@ -35,30 +35,30 @@ const GALLERY_ITEMS = [
   {
     type: 'image',
     src: '/assets/Repaint/kami-selalu-rindu-dengan-orderan.jpg',
-    label: 'Touch Up & Polish',
+    label: 'Repaint & Polish',
     sub: 'Finishing Premium Quality',
     category: 'repaint',
   },
   {
     type: 'image',
     src: '/assets/Repaint/kualitas-premium.jpg',
-    label: 'Kualitas Premium',
-    sub: 'Hasil pengecatan tahan lama',
+    label: 'Full Body Repaint',
+    sub: 'Silver Metalic',
     category: 'repaint',
   },
   // RESTORASI
   {
     type: 'image',
     src: '/assets/Restorasi/restorasi-body-panel.jpeg',
-    label: 'Restorasi Body Panel',
-    sub: 'Perbaikan dan pemulihan',
+    label: 'Restorasi Body dan Rangka',
+    sub: 'Full Repaint dan Restorasi',
     category: 'restorasi',
   },
   {
     type: 'image',
     src: '/assets/Video/workshop-process.jpg',
-    label: 'Workshop Process',
-    sub: 'Proses dan teknik kerja',
+    label: 'Restorasi Rangka Body dan Rangka Lainnya',
+    sub: 'Full Repaint dan Restorasi',
     category: 'restorasi',
   },
   // VIDEOS
