@@ -33,7 +33,7 @@ export default function Footer() {
         <div className="ft-col">
           <h4>Layanan</h4>
           <a href="#">Repaint</a>
-          <a href="#">Restorasi Penyok</a>
+          <a href="#">Restorasi</a>
           <a href="#">Touch Up &amp; Poles</a>
         </div>
 
